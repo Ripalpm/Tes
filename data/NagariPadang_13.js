@@ -1,0 +1,1 @@
+var json_NagariPadang_13 = {"type":"FeatureCollection","name":"NagariPadang_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nagari":"Indrarung","Longitude":100.47016,"Latitude":-0.93729},"geometry":{"type":"Point","coordinates":[100.4701561,-0.9372863]}}]}
